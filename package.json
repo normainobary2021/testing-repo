@@ -1,0 +1,23 @@
+{
+  "name": "testing_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normainobary2021/testing-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normainobary2021/testing-repo.git/issues"
+  },
+  "homepage": "https://github.com/normainobary2021/testing-repo.git#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
